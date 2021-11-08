@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/console/Console.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/graph/Vertex.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/farmer/FarmerState.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/domains/example/ExampleGraphTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/example/ExampleGraph.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/graph/GraphCreator.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/puzzle/PuzzleMover.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/domains/puzzle/PuzzleMoverTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/framework/problem/ProblemTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/domains/farmer/FarmerGraphTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/ui/ProblemGUI.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/problem/State.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/farmer/FarmerConsole.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/farmer/FarmerGraph.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/ui/ProblemConsole.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/puzzle/PuzzleConsole.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/graph/GraphSearcher.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/puzzle/PuzzleState.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/farmer/FarmerGUI.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/farmer/FarmerMover.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/dummy/DummyMover.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/farmer/FarmerProblem.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/dummy/DummyProblem.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/dummy/DummyState.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/problem/Benchmark.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/solution/Solution.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/solution/SolvingAssistant.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/framework/solution/SolutionTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/dummy/DummyConsole.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/domains/puzzle/PuzzleProblemTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/problem/Mover.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/graph/Graph.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/framework/graph/GraphCreatorTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/domains/puzzle/PuzzleStateTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/framework/problem/Problem.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/test/framework/graph/GraphSearcherTest.java</file>
+            <file>file:/C:/Users/pfahn/Documents/NetBeansProjects/ProblemSolver/src/domains/puzzle/PuzzleProblem.java</file>
+        </group>
+    </open-files>
+</project-private>
